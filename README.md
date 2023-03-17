@@ -1,14 +1,14 @@
 ### Olá! Eu me chamo Cauã Felipe
 
 - 🔭 Estudando em SENAI JANDIRA
-- 🌱 Aprendendo back-end e front-end
-- 👯 Mais voltado para Java, CSS e HTML
+- 🌱 Aprendendo back-end, front-end, Mobile e Banco de Dados
+- 👯 Mais voltado para Mobile, JavaScript, Java, CSS e HTML
 - 🤔 Contate-me no email: cauafelipe398@gmail.com
 
 <div align="center">
   <a href="https://github.com/alemao148">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago1223&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago1223&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alemao148&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemao148&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
