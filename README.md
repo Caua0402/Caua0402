@@ -1,9 +1,9 @@
 ### Olá! Eu me chamo Cauã Felipe
 
-- 🔭 Estudando em SENAI JANDIRA
-- 🌱 Aprendendo back-end, front-end, Mobile e Banco de Dados
-- 👯 Mais voltado para Mobile, JavaScript, Java, CSS e HTML
-- 🤔 Contate-me no email: cauafelipe398@gmail.com
+- 📖 Estudando em SENAI JANDIRA
+- 💻 Aprendendo back-end, front-end, Mobile e Banco de Dados
+- 👨‍💻 Mais voltado para Mobile, JavaScript, Java, CSS e HTML
+- 🙋‍♂️ Contate-me no email: cauafelipe398@gmail.com
 
 <div align="center">
   <a href="https://github.com/alemao148">
@@ -23,7 +23,7 @@
   
 ##
   
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/ofc_alemao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:tifreitas10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cauã-guerra-681221255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
