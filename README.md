@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/alemao148">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alemao148&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemao148&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caua0402&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua0402&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
   
@@ -32,7 +32,7 @@
   
 ##
 
- ![Snake animation](https://github.com/alemao148/alemao148/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Caua0402/Caua0402/blob/output/github-contribution-grid-snake.svg)
   
   
 </div>
